@@ -16,7 +16,7 @@ A secure and customizable password generator built with Python. This project all
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/ManzanoYG/password-generator.git
+git clone https://github.com/ManzanoYG/Password-Generator.git
 ```
 2. For Desktop GUI:
 ```bash
